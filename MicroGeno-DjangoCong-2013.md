@@ -3,22 +3,40 @@
 
 <hr/>
 
-### Towards an open web-based platform 
-### for genotyping data
+### Towards an advanced & open 
+### web platform 
+### for bacterial genotyping
 
 <hr/>
 
-#### MLVA Workshop 2013
+#### DjangoCong 2013
 
-<small>June, 5th 2013 - Ecole du Val-de-Grace, Paris, France</small>  
+<small>September, 28th 2013 - UTMB, Belfort, France</small>  
 ---
 
 # Outline
 
-1. Who's behind MicroGeno?
-2. The past,
-3. The present (demo),
-4. The future of MicroGeno.
+1. Introduction to bacterial genotyping.
+2. People involved.
+3. The past,
+4. The present (demo),
+5. The future of MicroGeno.
+
+---
+
+# Bacterial genotyping
+
+<img src="images/MicroGeno-bacteria-300px.png" class="no-effect"/>
+
+--
+
+### Bacterial genotyping for dummies
+
+* genome: DNA
+* nt sequences
+* TR
+* VNTR
+* MLVA
 
 ---
 
@@ -33,15 +51,15 @@
 ### G. Vergnaud, PhD
 
 * Scientific head of MicroGeno
-* MLVABank code refactoring
 * Searching for a lead developer
-* Turning the "website" to a web application
+* MLVABank code refactoring
 
 -- 
 
 <img src="images/TailorDev-logo-300px.png" alt="Logo TailoDev" class="no-effect left" />
 
-## TailorDev
+## ComSource 
+### { TailorDev }
 
 * (Web) applications <strong>development</strong>
 * Part of the <a href="http://comsource.fr" target="_blank" title="ComSource, web and print agency, Toulouse">ComSource</a> web & print agency
@@ -61,9 +79,8 @@
 
 ## MLVABank
 
-* from 2007 to 2013
-* Originally developed by <strong>Patrick Bouchon</strong> 
-* Maintained and improved by <strong>Christophe Tourterel</strong>
+* From 2007 to 2013
+* Originally developed & maintained by Paris Sud
 * PHP & JavaScript, no framework
 
 --
