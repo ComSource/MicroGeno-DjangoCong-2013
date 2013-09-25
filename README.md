@@ -1,33 +1,23 @@
 # MicroGeno
 
-> Towards an open web-based platform for genotyping data
+> MicroGeno, une plate-forme ouverte et innovante pour le génotypage bactérien
 
-* Place: MLVA 2013 workshop, Ecole du Val-de-Grâce, Paris
-* Date: June, 5th 2013
+* Place: DjangoCong 2013, UTBM, Belfort (France)
+* Date: September, 28th 2013
 * Credits: 
 	* Julien Maupetit - [@julienmaupetit](https://twitter.com/julienmaupetit)
 	* [Agence ComSource](http://comsource.fr)
 
-## Abstract
+## Résumé
 
-MicroGeno is a still-in-development open web platform used to facilitate
-pathogenic bacteria strain genotyping. This project emerged from the strong
-collaboration between TailorDev and the most talented academic researchers of
-the field.
+La production de cartes d'identité génétique de souches bactériennes responsables d'une épidémie permet de tracer l'apparition et/ou l'évolution d'une population bactérienne, et ainsi d'endiguer plus rapidement cette épidémie. 
 
-MicroGeno mainly focuses on user experience and massively online collaborative
-working. It aims to provide a easy-to-use toolbox for managing, querying and
-analyzing collections of bacterial genotyping data. The platform is not
-dedicated to a particular species, but intend to be as generalist as it may be.
+Il existe à l'heure actuelle plusieurs techniques de génotypage pour caractériser des souches bactériennes. Ces techniques génèrent des données qu'il convient de pouvoir facilement stocker et interroger. Plusieurs bases de données publiques existent, mais sont très souvent dédiées à une seule espèce bactérienne en particulier, et peuvent difficilement être alimentées par une source externe ou interrogées dans une interface homogène en ligne.
 
-During my talk, I will introduce MicroGeno main features with a live demo of the
-application.
-
-For more information about MicroGeno, please visit:
-[microgeno.org](http://microgeno.org)
+La plate-forme [MicroGeno](http://microgeno.org) — boostée par Django et un soupçon de d3.js — a été développée en partenariat avec l'université Paris Sud pour palier ce manque. Notre objectif est de fournir une boite à outils collaborative pour stocker, interroger et analyser des collections de données issues d'études épidémiologiques. Cette solution en ligne — accessible gratuitement aux centres de recherche académique — est une opportunité pour les petits laboratoires avec peu de moyens techniques et financiers.
 
 ## Watch now!
 
 Watch this presentation in your browser here:
 
-[http://comsource.github.io/MicroGeno-MLVA-Workshop-2013/](http://comsource.github.io/MicroGeno-MLVA-Workshop-2013/)
+[http://comsource.github.io/MicroGeno-DjangoCong-2013/](http://comsource.github.io/MicroGeno-DjangoCong-2013/)
