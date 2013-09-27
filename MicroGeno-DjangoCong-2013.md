@@ -57,7 +57,7 @@
 
 ### Variable Number of Tandem Repeat (VNTR)
 
-<img src="images/vntr.svg" class="no-effect"/>
+<img src="images/VNTR.svg" class="no-effect"/>
 
 #### A polymorphic TR is called VNTR
 
